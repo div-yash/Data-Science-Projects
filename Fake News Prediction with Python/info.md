@@ -30,6 +30,7 @@ The Fake News Detection project uses machine learning to classify news articles 
 
 ## Dataset
 The dataset used in this project is a collection of news articles with the following features:
+> https://github.com/div-yash/Data-Science-Projects/blob/bf5ce1b8e855e437424697068424402799d20d99/Fake%20News%20Prediction%20with%20Python/Dataset.md
 
 - **id**: A unique identifier for each news article.
 - **title**: The title of the news article.
